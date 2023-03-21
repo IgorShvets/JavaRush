@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0381cd33-9e9f-44ed-b254-a71cfb5103f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10-когда-то-было-32-зуба/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-я-снова-по-обьявлению/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-9ка-это-перевернутая-шестерка/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-логотип-решает-все-Конкотинация-Строк/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
