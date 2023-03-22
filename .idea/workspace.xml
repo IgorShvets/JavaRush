@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0381cd33-9e9f-44ed-b254-a71cfb5103f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12-логотип-решает-все-Конкотинация-Строк/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-пустота-и-пробелы-Конкотинация/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-пустота-и-пробелы-Конкотинация/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-Конкатинация-строк-и-чисел/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-с-каждым-разом-огромнее-Конкотинация-100500/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
