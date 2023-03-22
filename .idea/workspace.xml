@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0381cd33-9e9f-44ed-b254-a71cfb5103f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17-пишем-резюме(в нижний регистр)/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-прошу-регистр-на-меня-не-повышать-toUpperCase()-повышение-регистра/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
