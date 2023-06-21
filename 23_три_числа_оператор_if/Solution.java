@@ -32,6 +32,6 @@ public class Solution {
     if (num2) result = result + number2 + " ";
     if (num3) result = result + number3 + " ";
 
-    System.out.println(result);
+    if (num1 || num2 || num3) System.out.println(result);
   }
 }
