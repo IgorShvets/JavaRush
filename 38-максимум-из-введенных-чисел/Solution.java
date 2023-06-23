@@ -13,7 +13,7 @@ public class Solution {
     while (kbListener.hasNextInt()){
       int current = kbListener.nextInt();
 
-      if ((max % 2) == 0 && max < current) max = current;
+      if ((current % 2) == 0 && max < current) max = current;
     }
     System.out.println(max);
   }
